@@ -42,7 +42,7 @@ public class AppTest
         String result = app.concatenate("one", "two");
 
         assertEquals("onetwo", result);
-        System.out.println("**********************************&&&&&&&&&&&&&&&&&&&&&&&&&&&*");
+        System.out.println("**This is a sample one*");
 		
 
     }
